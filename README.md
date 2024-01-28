@@ -1,2 +1,2 @@
-# Vegan-Store-Simple-Website
+# Vegan-Store-Website
 THIS is a vegan store website project
