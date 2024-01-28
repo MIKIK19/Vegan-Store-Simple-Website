@@ -1,2 +1,2 @@
 # Vegan-Store-Simple-Website
-THIS is a vegan store simple website project
+THIS is a vegan store website project
